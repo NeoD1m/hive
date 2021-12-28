@@ -1,0 +1,13 @@
+com\example\pain\domain\Status.class
+com\example\pain\repos\MessageRepo.class
+com\example\pain\domain\User.class
+com\example\pain\config\MvcConfig.class
+com\example\pain\controller\MainController.class
+com\example\pain\controller\RegistrationController.class
+com\example\pain\domain\Message.class
+com\example\pain\controller\UserController.class
+com\example\pain\config\WebSecurityConfig.class
+com\example\pain\domain\Role.class
+com\example\pain\Application.class
+com\example\pain\service\UserService.class
+com\example\pain\repos\UserRepo.class
